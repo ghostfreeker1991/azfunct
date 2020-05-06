@@ -1,0 +1,22 @@
+{
+    "employees": [
+        {
+            "firstName": "Bert",
+            "lastName": "Smith",
+            "hireDate": "01/01/2015",
+            "deparment": "IT",
+            "manager": "Dave",
+            "country": "USA",
+            "city": "Springfield"
+        },
+        {
+            "firstName": "Ernie",
+            "lastName": "Cook",
+            "hireDate": "01/01/2016",
+            "deparment": "IT",
+            "manager": "Pat",
+            "country": "USA",
+            "city": "Springfield"
+        }
+    ]
+}
